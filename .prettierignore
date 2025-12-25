@@ -1,0 +1,12 @@
+node_modules
+dist
+build
+coverage
+*.pyc
+__pycache__
+venv
+env
+models/
+data/
+*.log
+
